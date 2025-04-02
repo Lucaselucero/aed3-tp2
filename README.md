@@ -8,7 +8,8 @@
 * Árbol Generador Mínimo (Minimum Spanning Tree), Bosque Generador Mínimo (invariante) 
 * Algoritmos:
 	* DFS (Búsqueda en profundidad)
-	* Kosaraju
+ 	* Topological Sort	 
+	* Kosaraju (DFS + Topological Sort en digrafo transpuesto)
 	* Kruskal (distintas implementaciones)
 	* Disjoint set union (DSU), union by rank, path compression
 * Tipos de aristas: tree edges, back edges, puentes
